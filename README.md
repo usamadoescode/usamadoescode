@@ -31,6 +31,8 @@ An AI-driven food recommendation platform that enhances dining experiences by al
 
 ### 🔹 To-Do Application (Django)
 - A simple **task management system** where users can **add, edit, and delete tasks**.
+- ✅ Successfully deployed on **Vercel** using **Neon Postgres Cloud Database**.  
+- 🌐 Live App: [To-Do App](https://whatdoing-usamadoescodes-projects.vercel.app/)
 
 ### 🔹 Grocery Management System (Java, SQL, GUI)
 - A **CRUD-based application** for managing grocery inventory.
