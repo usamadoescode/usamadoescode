@@ -30,7 +30,7 @@ An AI-driven food recommendation platform that enhances dining experiences by al
 - **Meal Planning:** Plan meals based on dietary preferences, budget, and available options.
 
 ### 🔹 To-Do Application (Django)
-- A simple **task management system** where users can **add, edit, and delete tasks**.
+- A simple **task management system** where users can **add, edit, and delete tasks with user authentication Register/Signin/Logout**.
 - ✅ Successfully deployed on **Vercel** using **Neon Postgres Cloud Database**.  
 - 🌐 Live App: [To-Do App](https://whatdoing-usamadoescodes-projects.vercel.app/)
 
