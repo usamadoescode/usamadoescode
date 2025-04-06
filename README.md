@@ -1,7 +1,7 @@
 # Usama Ahmed
 
 ## 🚀 About Me
-Final-year **BSCS student** with a strong foundation in **Django, Python, MySQL, PostgreSQL, and SQL databases**. Passionate about **backend development, database management, and AI-driven applications**. Skilled in **building scalable web applications** and optimizing database performance.
+Final-semester **BSCS student** with a strong foundation in **Django, Python, MySQL, PostgreSQL, and SQL databases**. Passionate about **backend development, database management, and AI-driven applications**. Skilled in **building scalable web applications** and optimizing database performance.
 
 ---
 
