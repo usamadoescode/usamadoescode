@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-Final-semester **BSCS student** with a strong foundation in **Django, Python, MySQL, PostgreSQL, and SQL databases**. Passionate about **backend development, database management, and AI-driven applications**. Skilled in **building scalable web applications** and optimizing database performance.
+**BSCS Graduate 2025** with a strong foundation in **Django, Python, MySQL, PostgreSQL, and SQL databases**. Passionate about **backend development, database management, and AI-driven applications**. Skilled in **building scalable web applications** and optimizing database performance.
 
 ---
 
@@ -38,6 +38,16 @@ An AI-driven food recommendation platform that enhances dining experiences by al
   - *"What people are saying about KFC's newly launched K Zing Burger?"*
 - **Restaurant Discovery:** Browse **200+ restaurants** and **1,000+ menu items**.
 - **Meal Planning:** Plan meals based on dietary preferences, budget, and available options.
+
+
+## QuickBizz – Django B2B Platform (Django, Python, SQLite, HTML, CSS) 
+ 
+- QuickBizz is a Django-based B2B product-sharing platform built to enable inter
+-business collaboration. 
+- Allows businesses to list products, browse others, and request items they do not have in 
+stock. 
+- Features include product request management, real-time tracking, and notifications. 
+
 
 ### 🔹 To-Do Application (Django)
 - A simple **task management system** where users can **add, edit, and delete tasks with user authentication Register/Signin/Logout**.
