@@ -40,13 +40,15 @@ An AI-driven food recommendation platform that enhances dining experiences by al
 - **Meal Planning:** Plan meals based on dietary preferences, budget, and available options.
 
 
-## QuickBizz – Django B2B Platform (Django, Python, SQLite, HTML, CSS) 
- 
-- QuickBizz is a Django-based B2B product-sharing platform built to enable inter
--business collaboration. 
-- Allows businesses to list products, browse others, and request items they do not have in 
-stock. 
-- Features include product request management, real-time tracking, and notifications. 
+## 🚀 QuickBizz – Django B2B Platform  
+**Tech Stack:** Django, Python, SQLite, HTML, CSS
+
+- ✅ Django-based **B2B product-sharing** platform for inter-business collaboration.  
+- 📦 Businesses can **list products**, **browse others**, and **request items** not in stock.  
+- 🔄 Includes **product request management**, **real-time tracking**, and **notifications**.
+- 🌐 Watch Demo: [QuickBizz](https://drive.google.com/file/d/1mYYteNAO3UQrnowQrizXfDMf70lFUN-c/view?usp=sharing)
+
+---
 
 
 ### 🔹 To-Do Application (Django)
